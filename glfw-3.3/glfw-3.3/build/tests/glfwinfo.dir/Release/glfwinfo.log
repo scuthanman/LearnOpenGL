@@ -1,0 +1,8 @@
+﻿  Building Custom Rule E:/Project/GitProject/LearnOpenGL/glfw-3.3/glfw-3.3/tests/CMakeLists.txt
+  CMake does not need to re-run because E:/Project/GitProject/LearnOpenGL/glfw-3.3/glfw-3.3/build/tests/CMakeFiles/generate.stamp is up-to-date.
+  glfwinfo.c
+  getopt.c
+  glad_gl.c
+  glad_vulkan.c
+  Generating Code...
+  glfwinfo.vcxproj -> E:\Project\GitProject\LearnOpenGL\glfw-3.3\glfw-3.3\build\tests\Release\glfwinfo.exe

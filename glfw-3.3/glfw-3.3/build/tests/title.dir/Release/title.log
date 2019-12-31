@@ -1,7 +1,0 @@
-﻿  Building Custom Rule E:/Project/GitProject/LearnOpenGL/glfw-3.3/glfw-3.3/tests/CMakeLists.txt
-  CMake does not need to re-run because E:/Project/GitProject/LearnOpenGL/glfw-3.3/glfw-3.3/build/tests/CMakeFiles/generate.stamp is up-to-date.
-  title.c
-e:\project\gitproject\learnopengl\glfw-3.3\glfw-3.3\tests\title.c : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
-  glad_gl.c
-  Generating Code...
-  title.vcxproj -> E:\Project\GitProject\LearnOpenGL\glfw-3.3\glfw-3.3\build\tests\Release\title.exe
